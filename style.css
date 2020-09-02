@@ -35,7 +35,7 @@ hr {
 }
 
 /* Set a style for the submit button */
-.registerbtn {
+.signupbtn {
   background-color: #4CAF50;
   color: white;
   padding: 16px 20px;
@@ -46,7 +46,7 @@ hr {
   opacity: 0.9;
 }
 
-.registerbtn:hover {
+.signupbtn:hover {
   opacity: 1;
 }
 
